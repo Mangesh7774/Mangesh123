@@ -11,7 +11,8 @@ public class Test {
 	public static void main(String[] args) {
 		
 		System.out.println("Added for practise");
-		System.out.println("Added for practise By Mahadu Demo Branch @##########");
+		System.out.println("Added for practise By Mahadu Demo  @##########");
+
 
 		Scanner sc = new Scanner(System.in); 
 		SBI sbi = new SBI();
